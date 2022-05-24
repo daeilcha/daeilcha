@@ -3,4 +3,4 @@
 - collaboration: open to collaborating; currently sharing select repositories publicly on my github
 - current interests: arbitrage in the blockchain/defi ecosystem
 - coding languages: python, SQL, r, solidity
-- contact: @daeilcha here or on twitter
+- contact: here or on twitter --> @daeilcha 
